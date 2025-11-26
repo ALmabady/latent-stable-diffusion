@@ -1,0 +1,4 @@
+
+# ignore reference video used to create the diffusion model
+*.mp4
+*.srt
